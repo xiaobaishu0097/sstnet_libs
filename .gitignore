@@ -1039,4 +1039,4 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-./htree.egg-info
+*.egg-info
